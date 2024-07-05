@@ -1,7 +1,7 @@
-Vitaly
-Alexander
-Sergey
+[200~Alexander
 Anna
 Elena
 German
 Mikhail
+Sergey
+Vitaly
